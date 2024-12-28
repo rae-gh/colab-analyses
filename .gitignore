@@ -162,3 +162,6 @@ cython_debug/
 #.idea/
 sample_data/*
 !sample_data/readme.md
+*.ccp4
+*.pdb
+*.done.txt
